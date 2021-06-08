@@ -1,0 +1,10 @@
+1	Sunday	10am-12pm	1	Swimming	1	RCPJ	123, Jalan Potato, Liyue City, 50150 Kuala Lumpur
+2	Monday	8pm-9pm	2	Badminton	1	RCPJ	123, Jalan Potato, Liyue City, 50150 Kuala Lumpur
+3	Wednesday	8pm-9pm	3	Football	1	RCPJ	123, Jalan Potato, Liyue City, 50150 Kuala Lumpur
+4	Thursday	9pm-10pm	4	Archery	2	RCWK	16, Temple streets, Wakanda City, 13008 Wakanda
+5	Saturday	8pm-9pm	5	Gymnastics	1	RCPJ	123, Jalan Potato, Liyue City, 50150 Kuala Lumpur
+6	Thursday	8pm-10pm	10	Table Tennis	2	RCWK	16, Temple streets, Wakanda City, 13008 Wakanda
+7	Tuesday	10am-12pm	6	Volleyball	1	RCPJ	123, Jalan Potato, Liyue City, 50150 Kuala Lumpur
+8	Friday	8pm-10pm	7	Basketball	1	RCPJ	123, Jalan Potato, Liyue City, 50150 Kuala Lumpur
+9	Saturday	9am-11am	8	Cricket	2	RCWK	16, Temple streets, Wakanda City, 13008 Wakanda
+10	Sunday	9am-11am	9	Tennis	2	RCWK	16, Temple streets, Wakanda City, 13008 Wakanda

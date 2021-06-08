@@ -1,0 +1,5 @@
+xiaowang,002,xiaoming,0,swiming,very good, 5
+dasd,2131,asdas,daas,ddsad,as,4
+dasd,2131,asdas,daas,ddsad,as,2
+we,67,xxx,ghj,dfg,tyu,5
+xiaohong,002,xiaoming,001,SWING,GOOD,5
